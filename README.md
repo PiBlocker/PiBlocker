@@ -1,4 +1,12 @@
+In Diesem Repository haben wir als Schulprojekt einen Adblocker mit dem Namen "PiBlocker" ertellt. Dieser Basiert auf einem RaspberryPi 4 und Zwei Repositorys.
+1. PiHole
+2. LibreSpeed
+    Uns war von anfang an klar, dass wir das Projekt Veröffentichen wollen.
+In diesem Verzeichniss findet ihr hoffentlich alle benötigen Infos. Falls trotzdem fragen aufkommen fühlt euch frei zu fragen.
 
+mfG
+Team PiBlocker
+   
 Inhalt
 1.	Zielsetzung und Hintergrund	
 2.	Systemarchitektur	
